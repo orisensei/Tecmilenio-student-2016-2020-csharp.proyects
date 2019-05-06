@@ -1,0 +1,7 @@
+D:\Hugo\Documents\Visual\evidencia2_mn\evidencia2_mn\bin\Debug\evidencia2_mn.exe.config
+D:\Hugo\Documents\Visual\evidencia2_mn\evidencia2_mn\bin\Debug\evidencia2_mn.exe
+D:\Hugo\Documents\Visual\evidencia2_mn\evidencia2_mn\bin\Debug\evidencia2_mn.pdb
+D:\Hugo\Documents\Visual\evidencia2_mn\evidencia2_mn\obj\Debug\evidencia2_mn.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\evidencia2_mn\evidencia2_mn\obj\Debug\evidencia2_mn.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\evidencia2_mn\evidencia2_mn\obj\Debug\evidencia2_mn.exe
+D:\Hugo\Documents\Visual\evidencia2_mn\evidencia2_mn\obj\Debug\evidencia2_mn.pdb

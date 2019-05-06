@@ -1,0 +1,11 @@
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\bin\Debug\netcoreapp2.2\Tarea12_act14.deps.json
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\bin\Debug\netcoreapp2.2\Tarea12_act14.runtimeconfig.json
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\bin\Debug\netcoreapp2.2\Tarea12_act14.runtimeconfig.dev.json
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\bin\Debug\netcoreapp2.2\Tarea12_act14.dll
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\bin\Debug\netcoreapp2.2\Tarea12_act14.pdb
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\obj\Debug\netcoreapp2.2\Tarea12_act14.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\obj\Debug\netcoreapp2.2\Tarea12_act14.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\obj\Debug\netcoreapp2.2\Tarea12_act14.AssemblyInfoInputs.cache
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\obj\Debug\netcoreapp2.2\Tarea12_act14.AssemblyInfo.cs
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\obj\Debug\netcoreapp2.2\Tarea12_act14.dll
+D:\Hugo\Documents\Visual\Tarea12_act14\Tarea12_act14\obj\Debug\netcoreapp2.2\Tarea12_act14.pdb

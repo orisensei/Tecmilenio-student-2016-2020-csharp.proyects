@@ -1,0 +1,7 @@
+D:\Hugo\Documents\Visual\tarea3\tarea3\bin\Debug\tarea3.exe.config
+D:\Hugo\Documents\Visual\tarea3\tarea3\bin\Debug\tarea3.exe
+D:\Hugo\Documents\Visual\tarea3\tarea3\bin\Debug\tarea3.pdb
+D:\Hugo\Documents\Visual\tarea3\tarea3\obj\Debug\tarea3.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\tarea3\tarea3\obj\Debug\tarea3.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\tarea3\tarea3\obj\Debug\tarea3.exe
+D:\Hugo\Documents\Visual\tarea3\tarea3\obj\Debug\tarea3.pdb

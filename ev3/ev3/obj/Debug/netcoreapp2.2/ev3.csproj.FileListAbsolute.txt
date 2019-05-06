@@ -1,0 +1,11 @@
+D:\Hugo\Documents\Visual\ev3\ev3\bin\Debug\netcoreapp2.2\ev3.deps.json
+D:\Hugo\Documents\Visual\ev3\ev3\bin\Debug\netcoreapp2.2\ev3.runtimeconfig.json
+D:\Hugo\Documents\Visual\ev3\ev3\bin\Debug\netcoreapp2.2\ev3.runtimeconfig.dev.json
+D:\Hugo\Documents\Visual\ev3\ev3\bin\Debug\netcoreapp2.2\ev3.dll
+D:\Hugo\Documents\Visual\ev3\ev3\bin\Debug\netcoreapp2.2\ev3.pdb
+D:\Hugo\Documents\Visual\ev3\ev3\obj\Debug\netcoreapp2.2\ev3.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\ev3\ev3\obj\Debug\netcoreapp2.2\ev3.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\ev3\ev3\obj\Debug\netcoreapp2.2\ev3.AssemblyInfoInputs.cache
+D:\Hugo\Documents\Visual\ev3\ev3\obj\Debug\netcoreapp2.2\ev3.AssemblyInfo.cs
+D:\Hugo\Documents\Visual\ev3\ev3\obj\Debug\netcoreapp2.2\ev3.dll
+D:\Hugo\Documents\Visual\ev3\ev3\obj\Debug\netcoreapp2.2\ev3.pdb

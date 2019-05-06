@@ -1,0 +1,7 @@
+D:\Hugo\Documents\Visual\act9_tarea8\act9_tarea8\bin\Debug\act9_tarea8.exe.config
+D:\Hugo\Documents\Visual\act9_tarea8\act9_tarea8\bin\Debug\act9_tarea8.exe
+D:\Hugo\Documents\Visual\act9_tarea8\act9_tarea8\bin\Debug\act9_tarea8.pdb
+D:\Hugo\Documents\Visual\act9_tarea8\act9_tarea8\obj\Debug\act9_tarea8.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\act9_tarea8\act9_tarea8\obj\Debug\act9_tarea8.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\act9_tarea8\act9_tarea8\obj\Debug\act9_tarea8.exe
+D:\Hugo\Documents\Visual\act9_tarea8\act9_tarea8\obj\Debug\act9_tarea8.pdb

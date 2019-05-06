@@ -1,0 +1,11 @@
+D:\Hugo\Documents\Visual\actividad13\actividad13\bin\Debug\netcoreapp2.2\actividad13.deps.json
+D:\Hugo\Documents\Visual\actividad13\actividad13\bin\Debug\netcoreapp2.2\actividad13.runtimeconfig.json
+D:\Hugo\Documents\Visual\actividad13\actividad13\bin\Debug\netcoreapp2.2\actividad13.runtimeconfig.dev.json
+D:\Hugo\Documents\Visual\actividad13\actividad13\bin\Debug\netcoreapp2.2\actividad13.dll
+D:\Hugo\Documents\Visual\actividad13\actividad13\bin\Debug\netcoreapp2.2\actividad13.pdb
+D:\Hugo\Documents\Visual\actividad13\actividad13\obj\Debug\netcoreapp2.2\actividad13.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\actividad13\actividad13\obj\Debug\netcoreapp2.2\actividad13.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\actividad13\actividad13\obj\Debug\netcoreapp2.2\actividad13.AssemblyInfoInputs.cache
+D:\Hugo\Documents\Visual\actividad13\actividad13\obj\Debug\netcoreapp2.2\actividad13.AssemblyInfo.cs
+D:\Hugo\Documents\Visual\actividad13\actividad13\obj\Debug\netcoreapp2.2\actividad13.dll
+D:\Hugo\Documents\Visual\actividad13\actividad13\obj\Debug\netcoreapp2.2\actividad13.pdb

@@ -1,0 +1,7 @@
+D:\Hugo\Documents\Visual\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+D:\Hugo\Documents\Visual\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+D:\Hugo\Documents\Visual\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+D:\Hugo\Documents\Visual\Tarea2\Tarea2\obj\Debug\Tarea2.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+D:\Hugo\Documents\Visual\Tarea2\Tarea2\obj\Debug\Tarea2.pdb

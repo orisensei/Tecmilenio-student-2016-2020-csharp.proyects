@@ -1,0 +1,11 @@
+D:\Hugo\Documents\Visual\tarea11\tarea11\bin\Debug\netcoreapp2.2\tarea11.deps.json
+D:\Hugo\Documents\Visual\tarea11\tarea11\bin\Debug\netcoreapp2.2\tarea11.runtimeconfig.json
+D:\Hugo\Documents\Visual\tarea11\tarea11\bin\Debug\netcoreapp2.2\tarea11.runtimeconfig.dev.json
+D:\Hugo\Documents\Visual\tarea11\tarea11\bin\Debug\netcoreapp2.2\tarea11.dll
+D:\Hugo\Documents\Visual\tarea11\tarea11\bin\Debug\netcoreapp2.2\tarea11.pdb
+D:\Hugo\Documents\Visual\tarea11\tarea11\obj\Debug\netcoreapp2.2\tarea11.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\tarea11\tarea11\obj\Debug\netcoreapp2.2\tarea11.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\tarea11\tarea11\obj\Debug\netcoreapp2.2\tarea11.AssemblyInfoInputs.cache
+D:\Hugo\Documents\Visual\tarea11\tarea11\obj\Debug\netcoreapp2.2\tarea11.AssemblyInfo.cs
+D:\Hugo\Documents\Visual\tarea11\tarea11\obj\Debug\netcoreapp2.2\tarea11.dll
+D:\Hugo\Documents\Visual\tarea11\tarea11\obj\Debug\netcoreapp2.2\tarea11.pdb

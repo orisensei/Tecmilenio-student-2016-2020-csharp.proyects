@@ -1,0 +1,7 @@
+D:\Hugo\Documents\Visual\actividad3\actividad3\bin\Debug\actividad3.exe.config
+D:\Hugo\Documents\Visual\actividad3\actividad3\bin\Debug\actividad3.exe
+D:\Hugo\Documents\Visual\actividad3\actividad3\bin\Debug\actividad3.pdb
+D:\Hugo\Documents\Visual\actividad3\actividad3\obj\Debug\actividad3.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\actividad3\actividad3\obj\Debug\actividad3.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\actividad3\actividad3\obj\Debug\actividad3.exe
+D:\Hugo\Documents\Visual\actividad3\actividad3\obj\Debug\actividad3.pdb

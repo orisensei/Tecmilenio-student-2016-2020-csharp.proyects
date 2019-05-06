@@ -1,0 +1,7 @@
+D:\Hugo\Documents\Visual\ev1metodos\ev1metodos\bin\Debug\ev1metodos.exe.config
+D:\Hugo\Documents\Visual\ev1metodos\ev1metodos\bin\Debug\ev1metodos.exe
+D:\Hugo\Documents\Visual\ev1metodos\ev1metodos\bin\Debug\ev1metodos.pdb
+D:\Hugo\Documents\Visual\ev1metodos\ev1metodos\obj\Debug\ev1metodos.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\ev1metodos\ev1metodos\obj\Debug\ev1metodos.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\ev1metodos\ev1metodos\obj\Debug\ev1metodos.exe
+D:\Hugo\Documents\Visual\ev1metodos\ev1metodos\obj\Debug\ev1metodos.pdb

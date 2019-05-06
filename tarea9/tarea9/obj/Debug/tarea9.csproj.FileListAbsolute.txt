@@ -1,0 +1,7 @@
+D:\Hugo\Documents\Visual\tarea9\tarea9\bin\Debug\tarea9.exe.config
+D:\Hugo\Documents\Visual\tarea9\tarea9\bin\Debug\tarea9.exe
+D:\Hugo\Documents\Visual\tarea9\tarea9\bin\Debug\tarea9.pdb
+D:\Hugo\Documents\Visual\tarea9\tarea9\obj\Debug\tarea9.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\tarea9\tarea9\obj\Debug\tarea9.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\tarea9\tarea9\obj\Debug\tarea9.exe
+D:\Hugo\Documents\Visual\tarea9\tarea9\obj\Debug\tarea9.pdb

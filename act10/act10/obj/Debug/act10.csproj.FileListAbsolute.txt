@@ -1,0 +1,7 @@
+D:\Hugo\Documents\Visual\act10\act10\bin\Debug\act10.exe.config
+D:\Hugo\Documents\Visual\act10\act10\bin\Debug\act10.exe
+D:\Hugo\Documents\Visual\act10\act10\bin\Debug\act10.pdb
+D:\Hugo\Documents\Visual\act10\act10\obj\Debug\act10.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\act10\act10\obj\Debug\act10.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\act10\act10\obj\Debug\act10.exe
+D:\Hugo\Documents\Visual\act10\act10\obj\Debug\act10.pdb

@@ -1,0 +1,14 @@
+C:\Users\Hugo\source\repos\Act8_tarea7\Act8_tarea7\obj\Debug\Act8_tarea7.csprojAssemblyReference.cache
+C:\Users\Hugo\source\repos\Act8_tarea7\Act8_tarea7\obj\Debug\Act8_tarea7.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Act8_tarea7\Act8_tarea7\bin\Debug\Act8_tarea7.exe.config
+C:\Users\Hugo\source\repos\Act8_tarea7\Act8_tarea7\bin\Debug\Act8_tarea7.exe
+C:\Users\Hugo\source\repos\Act8_tarea7\Act8_tarea7\bin\Debug\Act8_tarea7.pdb
+C:\Users\Hugo\source\repos\Act8_tarea7\Act8_tarea7\obj\Debug\Act8_tarea7.exe
+C:\Users\Hugo\source\repos\Act8_tarea7\Act8_tarea7\obj\Debug\Act8_tarea7.pdb
+D:\Hugo\Documents\Visual\Act8_tarea7\Act8_tarea7\bin\Debug\Act8_tarea7.exe.config
+D:\Hugo\Documents\Visual\Act8_tarea7\Act8_tarea7\bin\Debug\Act8_tarea7.exe
+D:\Hugo\Documents\Visual\Act8_tarea7\Act8_tarea7\bin\Debug\Act8_tarea7.pdb
+D:\Hugo\Documents\Visual\Act8_tarea7\Act8_tarea7\obj\Debug\Act8_tarea7.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\Act8_tarea7\Act8_tarea7\obj\Debug\Act8_tarea7.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\Act8_tarea7\Act8_tarea7\obj\Debug\Act8_tarea7.exe
+D:\Hugo\Documents\Visual\Act8_tarea7\Act8_tarea7\obj\Debug\Act8_tarea7.pdb

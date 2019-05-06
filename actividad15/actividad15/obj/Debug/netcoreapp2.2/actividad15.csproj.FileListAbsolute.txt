@@ -1,0 +1,11 @@
+D:\Hugo\Documents\Visual\actividad15\actividad15\bin\Debug\netcoreapp2.2\actividad15.deps.json
+D:\Hugo\Documents\Visual\actividad15\actividad15\bin\Debug\netcoreapp2.2\actividad15.runtimeconfig.json
+D:\Hugo\Documents\Visual\actividad15\actividad15\bin\Debug\netcoreapp2.2\actividad15.runtimeconfig.dev.json
+D:\Hugo\Documents\Visual\actividad15\actividad15\bin\Debug\netcoreapp2.2\actividad15.dll
+D:\Hugo\Documents\Visual\actividad15\actividad15\bin\Debug\netcoreapp2.2\actividad15.pdb
+D:\Hugo\Documents\Visual\actividad15\actividad15\obj\Debug\netcoreapp2.2\actividad15.csprojAssemblyReference.cache
+D:\Hugo\Documents\Visual\actividad15\actividad15\obj\Debug\netcoreapp2.2\actividad15.csproj.CoreCompileInputs.cache
+D:\Hugo\Documents\Visual\actividad15\actividad15\obj\Debug\netcoreapp2.2\actividad15.AssemblyInfoInputs.cache
+D:\Hugo\Documents\Visual\actividad15\actividad15\obj\Debug\netcoreapp2.2\actividad15.AssemblyInfo.cs
+D:\Hugo\Documents\Visual\actividad15\actividad15\obj\Debug\netcoreapp2.2\actividad15.dll
+D:\Hugo\Documents\Visual\actividad15\actividad15\obj\Debug\netcoreapp2.2\actividad15.pdb
